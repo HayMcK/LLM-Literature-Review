@@ -1,9 +1,12 @@
-# LLM-Literature-Review  
+# Levels of Programming Languages and What the Future May Hold for Them 
+
 ### Hayden McKenna  
+
 **Conversation with ChatGPT**  
+
 ## Question 1:  
    - Me:  
-     - How does the level of a programming language (low-level vs. high-level) impact productivity,control over function, and performance optimization?  
+     - How does the level of a programming language (low-level vs. high-level) impact productivity, control over function, and performance optimization?  
    - ChatGPT:  
      - Productivity  
        - High-level languages (e.g., Python, Java, C#) are designed to be more abstract and closer to human language. They simplify many tasks, offering features like automatic memory management, built-in libraries, and easier syntax. This allows developers to write less code to achieve the same functionality, significantly improving productivity  
@@ -14,6 +17,7 @@
      - Performance Optimiazation  
        - Low-level languages allow for fine-tuning performance. Since they map closely to machine code, developers can write highly optimized code that runs faster on specific hardware.
        - High-level languages tend to introduce overhead due to abstraction layers. These abstractions (e.g., virtual machines, garbage collection) can make code slower compared to low-level languages.  
+
 ## Question 2:  
    - Me:  
      - What prompted the development of programming languages at differing levels?  
@@ -22,6 +26,7 @@
      - The need for abstraction and easier, more productive programming led to the development of high-level languages like FORTRAN, COBOL, and later languages such as Python and Java.  
      - Performance-critical tasks and system-level programming (e.g., operating systems) led to the development of languages like C that balanced low-level control with higher-level abstractions.  
      - The increasing diversity of software applications drove the creation of general-purpose and domain-specific high-level languages.  
+
 ## Question 3:  
    - Me:  
      - With the lowest level of programming being binary machine code, is there a limit to how "high level" future languages may become, and what may the highest level look like?  
@@ -33,6 +38,7 @@
        - Natural Language Programming: We are already seeing advancements in tools that allow for programming using natural language. Technologies like GPT-based models (e.g., OpenAI's Codex) enable developers to write code using plain English commands, which are then translated into traditional programming languages. The future of high-level programming may involve more sophisticated AI-driven environments where developers can describe desired functionality in natural language, and the system generates optimized code automatically.  
      - AI and Adaptive Systems
        - Fully Autonomous Systems: In the most speculative scenarios, future "high-level" programming could become fully autonomous, where systems are capable of not just writing code but designing, building, and evolving themselves based on high-level goals provided by humans. This is akin to self-programming systems, where human programmers focus on specifying goals or constraints rather than giving explicit instructions.  
+
 ## Question 4:  
    - Me:  
      - How usable for the general public will these future languages become? Will they become more like assistants helping more users create solutions to problems they are facing?  
@@ -41,10 +47,8 @@
      - Future Usability: As AI and machine learning improve, these platforms will become even more accessible. Users will likely be able to describe their needs in plain language, and the system will generate the underlying logic automatically. The platforms may also suggest improvements and optimizations based on context, making it possible for people to create more sophisticated solutions with minimal technical input.  
      - As programming languages move closer to natural language interfaces, more people will be able to solve problems and build solutions by simply describing tasks in everyday language. This is part of the broader move toward conversational interfaces in software development.  
 
-
 ## Summary  
-
-
+   - I was interested in exploring the different levels of programming languages (low-level to high-level), and how past needs for new development may be powering the future innovations in a similar manner. I initially received a good overview of how low-level and high-level languages fit into categories like productivity, control, and performance, with each having their own respective positives and negatives. This led to an explanation of the general reasons why programming languages began to develop, with some becoming considered "higher level" with an easier learning curve due to similarities to natural language. The future of programming languages is set to become increasingly accessible to the general public, driven by advancements in AI, natural language processing (NLP), and low-code/no-code platforms. As technology evolves, the distinction between professional developers and non-technical users will blur, allowing more people to create software solutions without deep coding knowledge. In the future, programming may evolve into a more conversational, AI-assisted process where users can describe their needs in everyday language, and the system will generate, optimize, and even adjust the code automatically. This shift will empower a broader range of individuals, from small business owners to teachers, to create customized solutions tailored to their specific problems.  
 
 ## Resources  
 [Concepts of Programming Languages](https://www.sci.brooklyn.cuny.edu/~chuang/books/sebesta.pdf)  
